@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnePieceApplication</string>
+    <string name="home_tittle">Home</string>
+    <string name="profile_tittle">Profile</string>
+    <string name="search_character">Search your favorite character</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+</resources>
